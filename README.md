@@ -8,3 +8,4 @@ The projects are as follows
 ### 5. Used Car Data Analysis (Craigslist)
 ### 6. CarDekho Data Analysis 
 ### 7. Breast Cancer Prediction
+### 8. Zomato Data Analysis
