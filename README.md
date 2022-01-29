@@ -9,3 +9,4 @@ The projects are as follows
 ### 6. CarDekho Data Analysis 
 ### 7. Breast Cancer Prediction
 ### 8. Zomato Data Analysis
+### 9. Covid Prediction using Chest X-Ray
