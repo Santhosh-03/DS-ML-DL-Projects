@@ -10,3 +10,4 @@ The projects are as follows
 ### 7. Breast Cancer Prediction
 ### 8. Zomato Data Analysis
 ### 9. Covid Prediction using Chest X-Ray
+### 10. PUBG Win Percentage Prediction
